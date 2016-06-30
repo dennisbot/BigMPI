@@ -1,0 +1,20 @@
+================================
+   bigmpi 0: ./test-suite.log
+================================
+
+# TOTAL: 18
+# PASS:  17
+# SKIP:  0
+# XFAIL: 1
+# FAIL:  0
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+XFAIL: test/test_assert_x
+=========================
+
+test_assert_x: test/test_assert_x.c:15: main: Assertion `0' failed.
+XFAIL test/test_assert_x (exit status: 134)
+

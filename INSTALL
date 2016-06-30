@@ -1,0 +1,3 @@
+# CMake
+
+cmake /home/pavel/Documents/paralelo/BigMPI-master -DCMAKE_C_COMPILER=mpicc
